@@ -1,0 +1,2 @@
+NearestNeighborService total vehicle: 2
+NearestNeighborService totalDuarion: 52449s
